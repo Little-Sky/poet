@@ -1,0 +1,3 @@
+﻿     Creating library c:\users\tian\documents\visual studio 2015\Projects\poet\poet_enclave\Debug\poet_enclave.lib and object c:\users\tian\documents\visual studio 2015\Projects\poet\poet_enclave\Debug\poet_enclave.exp
+poet_enclave.obj : error LNK2019: unresolved external symbol __ultod3 referenced in function __catch$_ecall_VerifySignupInfo$1
+c:\users\tian\documents\visual studio 2015\Projects\poet\poet_enclave\Debug\poet_enclave.dll : fatal error LNK1120: 1 unresolved externals
